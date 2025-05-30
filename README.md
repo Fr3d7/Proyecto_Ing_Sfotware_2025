@@ -18,3 +18,29 @@ Desarrollar una aplicación web completa que permita gestionar proyectos de mane
 - ✅ Preparada para consumo de servicios estructurados por el frontend.
 
 📚 Aplicación Académica desarrollada en la Universidad Mariano Gálvez (2025) como parte del curso de Ingeniería de Software.
+
+
+
+## 📸 Capturas del Proyecto
+
+### 1. Pantalla Principal
+![Pantalla Principal](imagenes/1.jpg)
+
+### 2. Login
+![Login](imagenes/2.jpg)
+
+### 3. Registro
+![Registro](imagenes/3.jpg)
+
+### 4. Lista de Proyectos
+![Proyectos](imagenes/4.jpg)
+
+### 5. Épicas
+![Epicas](imagenes/5.jpg)
+
+### 6. Cronograma - Gantt
+![Gantt](imagenes/6.jpg)
+
+### 7. Kanban
+![Kanban](imagenes/7.jpg)
+
